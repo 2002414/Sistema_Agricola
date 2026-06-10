@@ -1,0 +1,22 @@
+# Base de datos Docker
+postgres_data/
+
+# Certificados SSL
+/etc/letsencrypt/
+
+# Archivos de respaldo
+*.tar.gz
+*.zip
+*.bak
+
+# Logs
+*.log
+
+# Configuración local
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
